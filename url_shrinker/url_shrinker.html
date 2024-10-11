@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="url_shrinker.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap" rel="stylesheet">
+    
+    <title>LinkHub</title>
+    
+</head>
+<body>
+    
+    <div class="container">
+        <h1>Url_Shrinker</h1>
+        <input type="text" id="LongUrl" placeholder="Enter Your Url">
+        <input type="text" id="Short_url" placeholder="Enter Custom Url">
+        <button onclick="addLink()" id="sendRequestButton">ADD</button>
+        
+        <a>My Links</a>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>LongUrl </th>
+                    <th>Short_url</th>
+                    
+                </tr>
+            </thead>
+                <tbody id="LinkTable">
+                </tbody>
+        </table>
+    </div>
+    <script src="url_shrinker.js"></script>
+</body>
+</html>
