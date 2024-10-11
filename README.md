@@ -23,6 +23,9 @@ Shrinker is a  web application which allows people to login, create and manage s
 ## Run Locally
 
 - **Do watch the demo of installation**
+![Black and White Simple Corporate Business Company Video](https://github.com/user-attachments/assets/f7c29423-4124-4b09-97d8-f8a051937501)
+
+
 Clone the project
 
 ```bash
