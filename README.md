@@ -51,6 +51,7 @@ Go to the project directory
 4. You can also toggle between dark mode and light mode.
 
 # Demo 
+https://drive.google.com/file/d/1MmFeRe7VPTcgtpdE47i4ZGEVePfXhcbR/view?usp=drive_link
 
 # Technologies Used
 - **Spring Boot :** Used for building the backend of the web application.
@@ -77,6 +78,9 @@ Go to the project directory
 
 
 ## Screenshots
+
+![image](https://github.com/user-attachments/assets/078c096f-99b4-4831-84fa-ae37abaf6849)
+
 
 
 # Future Improvements
